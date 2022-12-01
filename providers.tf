@@ -5,7 +5,7 @@ provider "google" {
 
 terraform {
   backend "gcs" {
-    bucket = "myvik-tf-state-prod"
+    bucket = "round-bounty-363611-tfstate"
     prefix = "terraform/state"
   }
 }
