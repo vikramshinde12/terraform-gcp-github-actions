@@ -1,2 +1,2 @@
-project_id = "round-bounty-363611"
-region     = "europe-west2"
+project_id = "trusty-obelisk-412501"
+region     = "us-central1"
